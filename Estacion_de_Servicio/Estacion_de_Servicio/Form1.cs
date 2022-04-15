@@ -19,10 +19,11 @@ namespace Estacion_de_Servicio
         }
 
         private void Form1_Load(object sender, EventArgs e)
-        {
+        {/*
             lblsurtidor1.Text = estacion.Surtidor1.Tipo_nafta.Nombre;
             lblsurtidor2.Text = estacion.Surtidor2.Tipo_nafta.Nombre;
             lblsurtidor3.Text = estacion.Surtidor3.Tipo_nafta.Nombre;
+            */
         }
     }
 }

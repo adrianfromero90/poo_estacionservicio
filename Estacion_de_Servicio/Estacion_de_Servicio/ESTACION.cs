@@ -38,38 +38,44 @@ namespace Estacion_de_Servicio
             get { return cantidad_ventas; }
             set { cantidad_ventas = value; }
         }
-        private float RecaudacionTotal()
+        
+        private float recaudacionTotal()
         {
-            
+            return 0;
         }
-        private float RecaudacionSurtidor(SURTIDOR s)
-        { 
-        
+        private float recaudacionSurtidor(SURTIDOR s)
+        {
+            return 0;
         }
-        private SURTIDOR MasRecaudo()
+        private SURTIDOR masRecaudo()
         { 
-        
+            return default(SURTIDOR);
+
         }
 
-        private SURTIDOR MasClientes()
-        { 
-        
+        private SURTIDOR masClientes()
+        {
+            return default(SURTIDOR); 
         }
-        private float PorcentajeVentas(NAFTA n)
-        { 
-        
+        private float porcentajeVentas(NAFTA n)
+        {
+            return 0;
+
         }
-        private float PorcentajeRecaudacion(NAFTA n)
-        { 
-        
+        private float porcentajeRecaudacion(NAFTA n)
+        {
+            return 0;
+
         }
 
-        private float PromedioVentasxSurtidor(SURTIDOR s)
-        { 
+        private float promedioVentasxSurtidor(SURTIDOR s)
+        {
+            return 0;
         
         }
-        private float PromedioRecaudacionxSurtidor(SURTIDOR s)
-        { 
+        private float promedioRecaudacionxSurtidor(SURTIDOR s)
+        {
+            return 0;
         
         }
 

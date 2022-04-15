@@ -4,3 +4,8 @@ C:\Users\Adrian\source\repos\Guía de Ejercicios Prácticos\Ejercicio 2 - Estaci
 C:\Users\Adrian\source\repos\Guía de Ejercicios Prácticos\Ejercicio 2 - Estación de Servicio\Estacion_de_Servicio\Estacion_de_Servicio\obj\Debug\Estacion_de_Servicio.Properties.Resources.resources
 C:\Users\Adrian\source\repos\Guía de Ejercicios Prácticos\Ejercicio 2 - Estación de Servicio\Estacion_de_Servicio\Estacion_de_Servicio\obj\Debug\Estacion_de_Servicio.csproj.GenerateResource.cache
 C:\Users\Adrian\source\repos\Guía de Ejercicios Prácticos\Ejercicio 2 - Estación de Servicio\Estacion_de_Servicio\Estacion_de_Servicio\obj\Debug\Estacion_de_Servicio.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\source\repos\Guía de Ejercicios Prácticos\Ejercicio 2 - Estación de Servicio\Estacion_de_Servicio\Estacion_de_Servicio\bin\Debug\Estacion_de_Servicio.exe.config
+C:\Users\Adrian\source\repos\Guía de Ejercicios Prácticos\Ejercicio 2 - Estación de Servicio\Estacion_de_Servicio\Estacion_de_Servicio\bin\Debug\Estacion_de_Servicio.exe
+C:\Users\Adrian\source\repos\Guía de Ejercicios Prácticos\Ejercicio 2 - Estación de Servicio\Estacion_de_Servicio\Estacion_de_Servicio\bin\Debug\Estacion_de_Servicio.pdb
+C:\Users\Adrian\source\repos\Guía de Ejercicios Prácticos\Ejercicio 2 - Estación de Servicio\Estacion_de_Servicio\Estacion_de_Servicio\obj\Debug\Estacion_de_Servicio.exe
+C:\Users\Adrian\source\repos\Guía de Ejercicios Prácticos\Ejercicio 2 - Estación de Servicio\Estacion_de_Servicio\Estacion_de_Servicio\obj\Debug\Estacion_de_Servicio.pdb
