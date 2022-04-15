@@ -1,0 +1,6 @@
+C:\Users\Adrian\source\repos\Guía de Ejercicios Prácticos\Ejercicio 2 - Estación de Servicio\Estacion_de_Servicio\Estacion_de_Servicio\obj\Debug\Estacion_de_Servicio.csproj.AssemblyReference.cache
+C:\Users\Adrian\source\repos\Guía de Ejercicios Prácticos\Ejercicio 2 - Estación de Servicio\Estacion_de_Servicio\Estacion_de_Servicio\obj\Debug\Estacion_de_Servicio.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adrian\source\repos\Guía de Ejercicios Prácticos\Ejercicio 2 - Estación de Servicio\Estacion_de_Servicio\Estacion_de_Servicio\obj\Debug\Estacion_de_Servicio.Form1.resources
+C:\Users\Adrian\source\repos\Guía de Ejercicios Prácticos\Ejercicio 2 - Estación de Servicio\Estacion_de_Servicio\Estacion_de_Servicio\obj\Debug\Estacion_de_Servicio.Properties.Resources.resources
+C:\Users\Adrian\source\repos\Guía de Ejercicios Prácticos\Ejercicio 2 - Estación de Servicio\Estacion_de_Servicio\Estacion_de_Servicio\obj\Debug\Estacion_de_Servicio.csproj.GenerateResource.cache
+C:\Users\Adrian\source\repos\Guía de Ejercicios Prácticos\Ejercicio 2 - Estación de Servicio\Estacion_de_Servicio\Estacion_de_Servicio\obj\Debug\Estacion_de_Servicio.csproj.CoreCompileInputs.cache

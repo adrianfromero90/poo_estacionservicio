@@ -1,0 +1,16 @@
+Estación de Servicio (Surtidor x3)
+Ventas (surtidor, cantidad)
+Surtidores (nombre, nafta)
+Nafta (tipo, precio)
+
+Recaudación Total
+Recaudación x Surtidor 
+Surtidor + Recaudó
+Surtidor - Recaudó
+Surtidor + Clientes
+%venta cada nafta
+%recaudación cada nafta
+Recargar Surtidor cuando se vacía
+Surtidor con más recargas
+Prom. Ventas por surtidor
+Prom. Recaudación por surtidor
